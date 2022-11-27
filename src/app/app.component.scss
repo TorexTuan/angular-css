@@ -1,0 +1,15 @@
+::ng-deep .modal-content {
+    width: 600px;
+}
+
+.modal-header {
+    display: flex;
+    align-items: flex-start;
+    height: fit-content;
+
+    .wrapper {
+        height: 100%;
+        width: 50%;
+        margin: 0 10px;
+    }
+}
